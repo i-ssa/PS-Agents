@@ -84,3 +84,6 @@ Here is the step-by-step cost breakdown:
 
 ### 3. Conclusion
 The total optimal driving distance for the trailer from Nairobi to Kisumu is **369.71 km**.
+
+# Group Photo
+![Group Photo](image.webp)
